@@ -1,6 +1,6 @@
-Hi! I'am Doan The Long.  
-I'am a graduating student of industrial University of Ho Chi Minh (IUH).  
-I'am looking for a professional working environment where I can improve and enhance my skills, as well as dedicate myself to the company.
+Hello everyone, I am Doan The Long!  
+I am currently a graduating student at Industrial University of Ho Chi Minh City (IUH).  
+I am looking for an internship opportunity as a Front-end Developer in a professional environment where I can develop my skills and contribute to the company's development.
 ### Contact me:
 - My phone: 0328033348
 - My gmail: learning27112001@gmail.com
